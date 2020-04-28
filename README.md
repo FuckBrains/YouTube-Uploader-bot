@@ -1,6 +1,8 @@
 ## [AnyDLBot](https://telegram.dog/AnyDLBot) - Clone
 ---
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 **My Features**:
